@@ -1,0 +1,27 @@
+h1 {
+  color: rgb(245, 113, 135);
+}
+
+h2 {
+    color: white
+}
+
+h5 {
+  color: white
+}
+
+body {
+  background-image: url(https://i.pinimg.com/originals/21/b2/80/21b28049dad166b6e5abf33f32296c77.jpg);
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: auto;
+}
+
+label {
+    color:white
+}
+
+.btn-primary {margin-top: 5px}
